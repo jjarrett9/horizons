@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 69432c1218cddb845a3a23378e1be813
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bent Long Nose Plier Assembly v1
+    100002: Bent Long Nose Plier Assembly v1:1
+    100004: Bent Long Nose Plier Female Part
+    100006: Bent Long Nose Plier Female Part:1
+    100008: Bent Long Nose Plier Male Part
+    100010: Bent Long Nose Plier Male Part:1
+    100012: Body1
+    100014: Body1 1
+    100016: Body1 10
+    100018: Body1 11
+    100020: Body1 12
+    100022: Body1 13
+    100024: Body1 14
+    100026: Body1 15
+    100028: Body1 16
+    100030: Body1 17
+    100032: Body1 18
+    100034: Body1 19
+    100036: Body1 2
+    100038: Body1 20
+    100040: Body1 21
+    100042: Body1 22
+    100044: Body1 23
+    100046: Body1 24
+    100048: Body1 25
+    100050: Body1 26
+    100052: Body1 27
+    100054: Body1 28
+    100056: Body1 29
+    100058: Body1 3
+    100060: Body1 30
+    100062: Body1 31
+    100064: Body1 32
+    100066: Body1 33
+    100068: Body1 34
+    100070: Body1 35
+    100072: Body1 36
+    100074: Body1 37
+    100076: Body1 38
+    100078: Body1 39
+    100080: Body1 4
+    100082: Body1 40
+    100084: Body1 41
+    100086: Body1 42
+    100088: Body1 43
+    100090: Body1 44
+    100092: Body1 45
+    100094: Body1 46
+    100096: Body1 47
+    100098: Body1 48
+    100100: Body1 49
+    100102: Body1 5
+    100104: Body1 50
+    100106: Body1 51
+    100108: Body1 52
+    100110: Body1 53
+    100112: Body1 54
+    100114: Body1 55
+    100116: Body1 56
+    100118: Body1 57
+    100120: Body1 58
+    100122: Body1 59
+    100124: Body1 6
+    100126: Body1 60
+    100128: Body1 61
+    100130: Body1 62
+    100132: Body1 63
+    100134: Body1 64
+    100136: Body1 65
+    100138: Body1 7
+    100140: Body1 8
+    100142: Body1 9
+    100144: Body10
+    100146: Body11
+    100148: Body12
+    100150: Body13
+    100152: Body14
+    100154: Body15
+    100156: Body16
+    100158: Body17
+    100160: Body18
+    100162: Body19
+    100164: Body2
+    100166: Body2 1
+    100168: Body2 10
+    100170: Body2 11
+    100172: Body2 12
+    100174: Body2 13
+    100176: Body2 14
+    100178: Body2 15
+    100180: Body2 16
+    100182: Body2 2
+    100184: Body2 3
+    100186: Body2 4
+    100188: Body2 5
+    100190: Body2 6
+    100192: Body2 7
+    100194: Body2 8
+    100196: Body2 9
+    100198: Body20
+    100200: Body21
+    100202: Body22
+    100204: Body23
+    100206: Body24
+    100208: Body25
+    100210: Body26
+    100212: Body27
+    100214: Body28
+    100216: Body29
+    100218: Body3
+    100220: Body3 1
+    100222: Body3 2
+    100224: Body30
+    100226: Body31
+    100228: Body32
+    100230: Body33
+    100232: Body34
+    100234: Body35
+    100236: Body36
+    100238: Body37
+    100240: Body38
+    100242: Body4
+    100244: Body5
+    100246: Body6
+    100248: Body7
+    100250: Body8
+    100252: Body9
+    100254: Box Joint Water Pump Plier Assembly v1
+    100256: Box Joint Water Pump Plier Assembly v1:1
+    100258: Box Joint Water Pump Plier Lower Jaw
+    100260: Box Joint Water Pump Plier Lower Jaw:1
+    100262: Box Joint Water Pump Plier Upper Jaw
+    100264: Box Joint Water Pump Plier Upper Jaw:1
+    100266: Box Joint Water Pump Rivet
+    100268: Box Joint Water Pump Rivet:1
+    100270: Combination Plier Assembly v1
+    100272: Combination Plier Assembly v1:1
+    100274: Combination Plier Female Part
+    100276: Combination Plier Female Part:1
+    100278: Combination Plier Male Part
+    100280: Combination Plier Male Part:1
+    100282: Diagonal Plier Assembly v1
+    100284: Diagonal Plier Assembly v1:1
+    100286: Diagonal Plier Female Part
+    100288: Diagonal Plier Female Part:1
+    100290: Diagonal Plier Male Part
+    100292: Diagonal Plier Male Part:1
+    100294: Long Nose Plier Assembly v1
+    100296: Long Nose Plier Assembly v1:1
+    100298: Long Nose Plier Female Part
+    100300: Long Nose Plier Female Part:1
+    100302: Long Nose Plier Male Part
+    100304: Long Nose Plier Male Part:1
+    100306: Man grabbing
+    100308: Man grabbing:1
+    100310: MeshBody1
+    100312: MeshBody2
+    100314: MeshBody3
+    100316: MeshBody4
+    100318: mic v1
+    100320: mic v1:1
+    100322: Plier Sheath
+    100324: Plier Sheath 1
+    100326: Plier Sheath 2
+    100328: Plier Sheath 2 1
+    100330: Plier Sheath 2 1 1
+    100332: Plier Sheath 2:1
+    100334: Plier Sheath 2:2
+    100336: Plier Sheath 3
+    100338: Plier Sheath 3 1
+    100340: Plier Sheath 3 1 1
+    100342: Plier Sheath 3:1
+    100344: Plier Sheath 3:2
+    100346: Plier Sheath 4
+    100348: Plier Sheath 5
+    100350: Plier Sheath 6
+    100352: Plier Sheath 7
+    100354: Plier Sheath:1
+    100356: Plier Sheath:1 1
+    100358: Plier Sheath:1 2
+    100360: Plier Sheath:1 3
+    100362: Plier Sheath:2
+    100364: Plier Sheath:2 1
+    100366: Plier Sheath:2 2
+    100368: Plier Sheath:2 3
+    100370: Slip Joint Plier Assembly v1
+    100372: Slip Joint Plier Assembly v1:1
+    100374: Slip Joint Plier Part 1
+    100376: Slip Joint Plier Part 1:1
+    100378: Slip Joint Plier Part 2
+    100380: Slip Joint Plier Part 2:1
+    100382: Slip Joint Plier Rivet
+    100384: Slip Joint Plier Rivet:1
+    100386: walle v1
+    100388: walle v1:1
+    100390: WB_01
+    100392: WB_01:1
+    100394: WB_02
+    100396: WB_02:1
+    100398: WB_03
+    100400: WB_03:1
+    100402: WB_04
+    100404: WB_04:1
+    100406: WB_05
+    100408: WB_05:1
+    100410: WB_06
+    100412: WB_06:1
+    100414: WB_07
+    100416: WB_07:1
+    100418: WB_08
+    100420: WB_08:1
+    100422: WB_09
+    100424: WB_09:1
+    100426: WB_10
+    100428: WB_10:1
+    100430: WB_11
+    100432: WB_11:1
+    100434: WB_12
+    100436: WB_12:1
+    100438: WB_13
+    100440: WB_13:1
+    100442: WB_14
+    100444: WB_14:1
+    100446: WB_15
+    100448: WB_15:1
+    100450: WB_16
+    100452: WB_16:1
+    100454: WB_17
+    100456: WB_17:1
+    100458: WB_18
+    100460: WB_18:1
+    100462: WB_19
+    100464: WB_19:1
+    100466: WB_20
+    100468: WB_20:1
+    100470: WB_21
+    100472: WB_21:1
+    100474: WB_22
+    100476: WB_22:1
+    100478: WB_23
+    100480: WB_23:1
+    100482: WB_24
+    100484: WB_24:1
+    100486: WB_25
+    100488: WB_25:1
+    100490: WB_26
+    100492: WB_26:1
+    100494: WB_27
+    100496: WB_27:1
+    100498: WB_28
+    100500: WB_28:1
+    100502: WB_29
+    100504: WB_29:1
+    100506: WB_30
+    100508: WB_30:1
+    100510: WB_31
+    100512: WB_31:1
+    100514: WB_32
+    100516: WB_32:1
+    100518: WB_33
+    100520: WB_33:1
+    100522: WB_34
+    100524: WB_34:1
+    100526: WB_35
+    100528: WB_35:1
+    100530: WB_36
+    100532: WB_36:1
+    100534: WB_37
+    100536: WB_37:1
+    100538: WB_38
+    100540: WB_38:1
+    100542: WORK_BENCH v1
+    100544: WORK_BENCH v1:1
+    100546: //RootNode
+    400000: Bent Long Nose Plier Assembly v1
+    400002: Bent Long Nose Plier Assembly v1:1
+    400004: Bent Long Nose Plier Female Part
+    400006: Bent Long Nose Plier Female Part:1
+    400008: Bent Long Nose Plier Male Part
+    400010: Bent Long Nose Plier Male Part:1
+    400012: Body1
+    400014: Body1 1
+    400016: Body1 10
+    400018: Body1 11
+    400020: Body1 12
+    400022: Body1 13
+    400024: Body1 14
+    400026: Body1 15
+    400028: Body1 16
+    400030: Body1 17
+    400032: Body1 18
+    400034: Body1 19
+    400036: Body1 2
+    400038: Body1 20
+    400040: Body1 21
+    400042: Body1 22
+    400044: Body1 23
+    400046: Body1 24
+    400048: Body1 25
+    400050: Body1 26
+    400052: Body1 27
+    400054: Body1 28
+    400056: Body1 29
+    400058: Body1 3
+    400060: Body1 30
+    400062: Body1 31
+    400064: Body1 32
+    400066: Body1 33
+    400068: Body1 34
+    400070: Body1 35
+    400072: Body1 36
+    400074: Body1 37
+    400076: Body1 38
+    400078: Body1 39
+    400080: Body1 4
+    400082: Body1 40
+    400084: Body1 41
+    400086: Body1 42
+    400088: Body1 43
+    400090: Body1 44
+    400092: Body1 45
+    400094: Body1 46
+    400096: Body1 47
+    400098: Body1 48
+    400100: Body1 49
+    400102: Body1 5
+    400104: Body1 50
+    400106: Body1 51
+    400108: Body1 52
+    400110: Body1 53
+    400112: Body1 54
+    400114: Body1 55
+    400116: Body1 56
+    400118: Body1 57
+    400120: Body1 58
+    400122: Body1 59
+    400124: Body1 6
+    400126: Body1 60
+    400128: Body1 61
+    400130: Body1 62
+    400132: Body1 63
+    400134: Body1 64
+    400136: Body1 65
+    400138: Body1 7
+    400140: Body1 8
+    400142: Body1 9
+    400144: Body10
+    400146: Body11
+    400148: Body12
+    400150: Body13
+    400152: Body14
+    400154: Body15
+    400156: Body16
+    400158: Body17
+    400160: Body18
+    400162: Body19
+    400164: Body2
+    400166: Body2 1
+    400168: Body2 10
+    400170: Body2 11
+    400172: Body2 12
+    400174: Body2 13
+    400176: Body2 14
+    400178: Body2 15
+    400180: Body2 16
+    400182: Body2 2
+    400184: Body2 3
+    400186: Body2 4
+    400188: Body2 5
+    400190: Body2 6
+    400192: Body2 7
+    400194: Body2 8
+    400196: Body2 9
+    400198: Body20
+    400200: Body21
+    400202: Body22
+    400204: Body23
+    400206: Body24
+    400208: Body25
+    400210: Body26
+    400212: Body27
+    400214: Body28
+    400216: Body29
+    400218: Body3
+    400220: Body3 1
+    400222: Body3 2
+    400224: Body30
+    400226: Body31
+    400228: Body32
+    400230: Body33
+    400232: Body34
+    400234: Body35
+    400236: Body36
+    400238: Body37
+    400240: Body38
+    400242: Body4
+    400244: Body5
+    400246: Body6
+    400248: Body7
+    400250: Body8
+    400252: Body9
+    400254: Box Joint Water Pump Plier Assembly v1
+    400256: Box Joint Water Pump Plier Assembly v1:1
+    400258: Box Joint Water Pump Plier Lower Jaw
+    400260: Box Joint Water Pump Plier Lower Jaw:1
+    400262: Box Joint Water Pump Plier Upper Jaw
+    400264: Box Joint Water Pump Plier Upper Jaw:1
+    400266: Box Joint Water Pump Rivet
+    400268: Box Joint Water Pump Rivet:1
+    400270: Combination Plier Assembly v1
+    400272: Combination Plier Assembly v1:1
+    400274: Combination Plier Female Part
+    400276: Combination Plier Female Part:1
+    400278: Combination Plier Male Part
+    400280: Combination Plier Male Part:1
+    400282: Diagonal Plier Assembly v1
+    400284: Diagonal Plier Assembly v1:1
+    400286: Diagonal Plier Female Part
+    400288: Diagonal Plier Female Part:1
+    400290: Diagonal Plier Male Part
+    400292: Diagonal Plier Male Part:1
+    400294: Long Nose Plier Assembly v1
+    400296: Long Nose Plier Assembly v1:1
+    400298: Long Nose Plier Female Part
+    400300: Long Nose Plier Female Part:1
+    400302: Long Nose Plier Male Part
+    400304: Long Nose Plier Male Part:1
+    400306: Man grabbing
+    400308: Man grabbing:1
+    400310: MeshBody1
+    400312: MeshBody2
+    400314: MeshBody3
+    400316: MeshBody4
+    400318: mic v1
+    400320: mic v1:1
+    400322: Plier Sheath
+    400324: Plier Sheath 1
+    400326: Plier Sheath 2
+    400328: Plier Sheath 2 1
+    400330: Plier Sheath 2 1 1
+    400332: Plier Sheath 2:1
+    400334: Plier Sheath 2:2
+    400336: Plier Sheath 3
+    400338: Plier Sheath 3 1
+    400340: Plier Sheath 3 1 1
+    400342: Plier Sheath 3:1
+    400344: Plier Sheath 3:2
+    400346: Plier Sheath 4
+    400348: Plier Sheath 5
+    400350: Plier Sheath 6
+    400352: Plier Sheath 7
+    400354: Plier Sheath:1
+    400356: Plier Sheath:1 1
+    400358: Plier Sheath:1 2
+    400360: Plier Sheath:1 3
+    400362: Plier Sheath:2
+    400364: Plier Sheath:2 1
+    400366: Plier Sheath:2 2
+    400368: Plier Sheath:2 3
+    400370: Slip Joint Plier Assembly v1
+    400372: Slip Joint Plier Assembly v1:1
+    400374: Slip Joint Plier Part 1
+    400376: Slip Joint Plier Part 1:1
+    400378: Slip Joint Plier Part 2
+    400380: Slip Joint Plier Part 2:1
+    400382: Slip Joint Plier Rivet
+    400384: Slip Joint Plier Rivet:1
+    400386: walle v1
+    400388: walle v1:1
+    400390: WB_01
+    400392: WB_01:1
+    400394: WB_02
+    400396: WB_02:1
+    400398: WB_03
+    400400: WB_03:1
+    400402: WB_04
+    400404: WB_04:1
+    400406: WB_05
+    400408: WB_05:1
+    400410: WB_06
+    400412: WB_06:1
+    400414: WB_07
+    400416: WB_07:1
+    400418: WB_08
+    400420: WB_08:1
+    400422: WB_09
+    400424: WB_09:1
+    400426: WB_10
+    400428: WB_10:1
+    400430: WB_11
+    400432: WB_11:1
+    400434: WB_12
+    400436: WB_12:1
+    400438: WB_13
+    400440: WB_13:1
+    400442: WB_14
+    400444: WB_14:1
+    400446: WB_15
+    400448: WB_15:1
+    400450: WB_16
+    400452: WB_16:1
+    400454: WB_17
+    400456: WB_17:1
+    400458: WB_18
+    400460: WB_18:1
+    400462: WB_19
+    400464: WB_19:1
+    400466: WB_20
+    400468: WB_20:1
+    400470: WB_21
+    400472: WB_21:1
+    400474: WB_22
+    400476: WB_22:1
+    400478: WB_23
+    400480: WB_23:1
+    400482: WB_24
+    400484: WB_24:1
+    400486: WB_25
+    400488: WB_25:1
+    400490: WB_26
+    400492: WB_26:1
+    400494: WB_27
+    400496: WB_27:1
+    400498: WB_28
+    400500: WB_28:1
+    400502: WB_29
+    400504: WB_29:1
+    400506: WB_30
+    400508: WB_30:1
+    400510: WB_31
+    400512: WB_31:1
+    400514: WB_32
+    400516: WB_32:1
+    400518: WB_33
+    400520: WB_33:1
+    400522: WB_34
+    400524: WB_34:1
+    400526: WB_35
+    400528: WB_35:1
+    400530: WB_36
+    400532: WB_36:1
+    400534: WB_37
+    400536: WB_37:1
+    400538: WB_38
+    400540: WB_38:1
+    400542: WORK_BENCH v1
+    400544: WORK_BENCH v1:1
+    400546: //RootNode
+    2100000: Opaque(202,209,238)
+    2100002: No Name
+    2100004: Opaque(112,112,112)
+    2100006: Opaque(165,165,165)
+    2100008: Opaque(255,255,255)
+    2100010: Opaque(117,77,41)
+    2100012: Opaque(171,138,110)
+    2100014: Opaque(158,104,51)
+    2100016: Opaque(165,158,153)
+    2100018: Opaque(127,127,127)
+    2100020: Opaque(229,234,237)
+    2100022: Opaque(2,61,210)
+    2100024: Opaque(255,43,43)
+    2100026: Opaque(186,153,132)
+    2100028: Opaque(26,26,26)
+    2100030: Steel - Satin
+    2100032: Opaque(51,102,178)
+    2100034: Opaque(150,145,134)
+    2100036: Opaque(73,169,84)
+    2100038: Opaque(87,214,105)
+    2100040: Opaque(255,0,128)
+    2300000: Body1
+    2300002: Body1 1
+    2300004: Body1 10
+    2300006: Body1 11
+    2300008: Body1 12
+    2300010: Body1 13
+    2300012: Body1 14
+    2300014: Body1 15
+    2300016: Body1 16
+    2300018: Body1 17
+    2300020: Body1 18
+    2300022: Body1 19
+    2300024: Body1 2
+    2300026: Body1 20
+    2300028: Body1 21
+    2300030: Body1 22
+    2300032: Body1 23
+    2300034: Body1 24
+    2300036: Body1 25
+    2300038: Body1 26
+    2300040: Body1 27
+    2300042: Body1 28
+    2300044: Body1 29
+    2300046: Body1 3
+    2300048: Body1 30
+    2300050: Body1 31
+    2300052: Body1 32
+    2300054: Body1 33
+    2300056: Body1 34
+    2300058: Body1 35
+    2300060: Body1 36
+    2300062: Body1 37
+    2300064: Body1 38
+    2300066: Body1 39
+    2300068: Body1 4
+    2300070: Body1 40
+    2300072: Body1 41
+    2300074: Body1 42
+    2300076: Body1 43
+    2300078: Body1 44
+    2300080: Body1 45
+    2300082: Body1 46
+    2300084: Body1 47
+    2300086: Body1 48
+    2300088: Body1 49
+    2300090: Body1 5
+    2300092: Body1 50
+    2300094: Body1 51
+    2300096: Body1 52
+    2300098: Body1 53
+    2300100: Body1 54
+    2300102: Body1 55
+    2300104: Body1 56
+    2300106: Body1 57
+    2300108: Body1 58
+    2300110: Body1 59
+    2300112: Body1 6
+    2300114: Body1 60
+    2300116: Body1 61
+    2300118: Body1 62
+    2300120: Body1 63
+    2300122: Body1 64
+    2300124: Body1 65
+    2300126: Body1 7
+    2300128: Body1 8
+    2300130: Body1 9
+    2300132: Body10
+    2300134: Body11
+    2300136: Body12
+    2300138: Body13
+    2300140: Body14
+    2300142: Body15
+    2300144: Body16
+    2300146: Body17
+    2300148: Body18
+    2300150: Body19
+    2300152: Body2
+    2300154: Body2 1
+    2300156: Body2 10
+    2300158: Body2 11
+    2300160: Body2 12
+    2300162: Body2 13
+    2300164: Body2 14
+    2300166: Body2 15
+    2300168: Body2 16
+    2300170: Body2 2
+    2300172: Body2 3
+    2300174: Body2 4
+    2300176: Body2 5
+    2300178: Body2 6
+    2300180: Body2 7
+    2300182: Body2 8
+    2300184: Body2 9
+    2300186: Body20
+    2300188: Body21
+    2300190: Body22
+    2300192: Body23
+    2300194: Body24
+    2300196: Body25
+    2300198: Body26
+    2300200: Body27
+    2300202: Body28
+    2300204: Body29
+    2300206: Body3
+    2300208: Body3 1
+    2300210: Body3 2
+    2300212: Body30
+    2300214: Body31
+    2300216: Body32
+    2300218: Body33
+    2300220: Body34
+    2300222: Body35
+    2300224: Body36
+    2300226: Body37
+    2300228: Body38
+    2300230: Body4
+    2300232: Body5
+    2300234: Body6
+    2300236: Body7
+    2300238: Body8
+    2300240: Body9
+    2300242: MeshBody1
+    2300244: MeshBody2
+    2300246: MeshBody3
+    2300248: MeshBody4
+    3300000: Body1
+    3300002: Body1 1
+    3300004: Body1 10
+    3300006: Body1 11
+    3300008: Body1 12
+    3300010: Body1 13
+    3300012: Body1 14
+    3300014: Body1 15
+    3300016: Body1 16
+    3300018: Body1 17
+    3300020: Body1 18
+    3300022: Body1 19
+    3300024: Body1 2
+    3300026: Body1 20
+    3300028: Body1 21
+    3300030: Body1 22
+    3300032: Body1 23
+    3300034: Body1 24
+    3300036: Body1 25
+    3300038: Body1 26
+    3300040: Body1 27
+    3300042: Body1 28
+    3300044: Body1 29
+    3300046: Body1 3
+    3300048: Body1 30
+    3300050: Body1 31
+    3300052: Body1 32
+    3300054: Body1 33
+    3300056: Body1 34
+    3300058: Body1 35
+    3300060: Body1 36
+    3300062: Body1 37
+    3300064: Body1 38
+    3300066: Body1 39
+    3300068: Body1 4
+    3300070: Body1 40
+    3300072: Body1 41
+    3300074: Body1 42
+    3300076: Body1 43
+    3300078: Body1 44
+    3300080: Body1 45
+    3300082: Body1 46
+    3300084: Body1 47
+    3300086: Body1 48
+    3300088: Body1 49
+    3300090: Body1 5
+    3300092: Body1 50
+    3300094: Body1 51
+    3300096: Body1 52
+    3300098: Body1 53
+    3300100: Body1 54
+    3300102: Body1 55
+    3300104: Body1 56
+    3300106: Body1 57
+    3300108: Body1 58
+    3300110: Body1 59
+    3300112: Body1 6
+    3300114: Body1 60
+    3300116: Body1 61
+    3300118: Body1 62
+    3300120: Body1 63
+    3300122: Body1 64
+    3300124: Body1 65
+    3300126: Body1 7
+    3300128: Body1 8
+    3300130: Body1 9
+    3300132: Body10
+    3300134: Body11
+    3300136: Body12
+    3300138: Body13
+    3300140: Body14
+    3300142: Body15
+    3300144: Body16
+    3300146: Body17
+    3300148: Body18
+    3300150: Body19
+    3300152: Body2
+    3300154: Body2 1
+    3300156: Body2 10
+    3300158: Body2 11
+    3300160: Body2 12
+    3300162: Body2 13
+    3300164: Body2 14
+    3300166: Body2 15
+    3300168: Body2 16
+    3300170: Body2 2
+    3300172: Body2 3
+    3300174: Body2 4
+    3300176: Body2 5
+    3300178: Body2 6
+    3300180: Body2 7
+    3300182: Body2 8
+    3300184: Body2 9
+    3300186: Body20
+    3300188: Body21
+    3300190: Body22
+    3300192: Body23
+    3300194: Body24
+    3300196: Body25
+    3300198: Body26
+    3300200: Body27
+    3300202: Body28
+    3300204: Body29
+    3300206: Body3
+    3300208: Body3 1
+    3300210: Body3 2
+    3300212: Body30
+    3300214: Body31
+    3300216: Body32
+    3300218: Body33
+    3300220: Body34
+    3300222: Body35
+    3300224: Body36
+    3300226: Body37
+    3300228: Body38
+    3300230: Body4
+    3300232: Body5
+    3300234: Body6
+    3300236: Body7
+    3300238: Body8
+    3300240: Body9
+    3300242: MeshBody1
+    3300244: MeshBody2
+    3300246: MeshBody3
+    3300248: MeshBody4
+    4300000: Body1
+    4300002: Body2
+    4300004: Body1
+    4300006: Body2
+    4300008: Body1
+    4300010: Body2
+    4300012: Body1
+    4300014: Body1
+    4300016: Body1
+    4300018: Body2
+    4300020: Body1
+    4300022: Body1
+    4300024: Body1
+    4300026: Body2
+    4300028: Body1
+    4300030: Body1
+    4300032: Body1
+    4300034: Body2
+    4300036: Body1
+    4300038: Body1
+    4300040: Body1
+    4300042: Body1
+    4300044: Body2
+    4300046: Body1
+    4300048: Body1
+    4300050: Body1
+    4300052: Body1
+    4300054: Body2
+    4300056: Body1
+    4300058: Body1
+    4300060: Body1
+    4300062: Body2
+    4300064: Body3
+    4300066: Body1
+    4300068: Body1
+    4300070: Body1
+    4300072: Body1
+    4300074: Body1
+    4300076: Body1
+    4300078: Body1
+    4300080: Body1
+    4300082: Body1
+    4300084: Body1
+    4300086: Body1
+    4300088: Body1
+    4300090: Body1
+    4300092: Body1
+    4300094: Body2
+    4300096: Body3
+    4300098: Body1
+    4300100: Body1
+    4300102: Body1
+    4300104: Body1
+    4300106: Body1
+    4300108: Body1
+    4300110: Body1
+    4300112: Body1
+    4300114: Body1
+    4300116: Body1
+    4300118: Body1
+    4300120: Body1
+    4300122: Body1
+    4300124: Body1
+    4300126: Body1
+    4300128: Body1
+    4300130: Body1
+    4300132: Body1
+    4300134: Body1
+    4300136: Body1
+    4300138: Body1
+    4300140: MeshBody1
+    4300142: MeshBody2
+    4300144: MeshBody3
+    4300146: MeshBody4
+    4300148: Body1
+    4300150: Body2
+    4300152: Body3
+    4300154: Body4
+    4300156: Body5
+    4300158: Body6
+    4300160: Body7
+    4300162: Body8
+    4300164: Body9
+    4300166: Body10
+    4300168: Body11
+    4300170: Body12
+    4300172: Body13
+    4300174: Body14
+    4300176: Body15
+    4300178: Body16
+    4300180: Body17
+    4300182: Body18
+    4300184: Body19
+    4300186: Body20
+    4300188: Body21
+    4300190: Body22
+    4300192: Body23
+    4300194: Body24
+    4300196: Body25
+    4300198: Body26
+    4300200: Body27
+    4300202: Body28
+    4300204: Body29
+    4300206: Body30
+    4300208: Body31
+    4300210: Body32
+    4300212: Body33
+    4300214: Body34
+    4300216: Body35
+    4300218: Body36
+    4300220: Body37
+    4300222: Body38
+    4300224: Body1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1000
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

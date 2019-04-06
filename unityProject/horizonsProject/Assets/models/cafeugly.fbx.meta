@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 5546ab96dc0ccba43a89191a66c1b8cd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _Unimec Robot Body
+    100002: _Unimec Robot Body:1
+    100004: _Unimec Robot Fingers
+    100006: _Unimec Robot Fingers 1
+    100008: _Unimec Robot Fingers:1
+    100010: _Unimec Robot Fingers:2
+    100012: _Unimec Robot Hand
+    100014: _Unimec Robot Hand 1
+    100016: _Unimec Robot Hand:1
+    100018: _Unimec Robot Hand:2
+    100020: _Unimec Robot Head
+    100022: _Unimec Robot Head:1
+    100024: _Unimec Robot Leg
+    100026: _Unimec Robot Leg 1
+    100028: _Unimec Robot Leg:1
+    100030: _Unimec Robot Leg:2
+    100032: Body1
+    100034: cafe v1 (1)
+    100036: cafe v1 (1):1
+    100038: //RootNode
+    100040: Group#1
+    100042: Group#1:1
+    100044: Group#2
+    100046: Group#2:1
+    100048: Group#3
+    100050: Group#3:1
+    100052: Group#4
+    100054: Group#4:1
+    100056: Group#5
+    100058: Group#5:1
+    100060: Group#6
+    100062: Group#6:1
+    100064: Group#7
+    100066: Group#7:1
+    100068: MeshBody1
+    100070: MeshBody1 1
+    100072: MeshBody1 2
+    100074: MeshBody1 3
+    100076: MeshBody1 4
+    100078: MeshBody1 5
+    100080: MeshBody1 6
+    100082: MeshBody1 7
+    100084: MeshBody2
+    100086: MeshBody2 1
+    100088: MeshBody2 2
+    100090: MeshBody2 3
+    100092: MeshBody2 4
+    100094: MeshBody2 5
+    100096: MeshBody2 6
+    100098: MeshBody3
+    100100: MeshBody3 1
+    100102: MeshBody3 2
+    100104: MeshBody3 3
+    100106: MeshBody3 4
+    100108: MeshBody3 5
+    100110: MeshBody3 6
+    100112: MeshBody4
+    100114: MeshBody4 1
+    100116: MeshBody4 2
+    100118: MeshBody4 3
+    100120: MeshBody4 4
+    100122: MeshBody5
+    100124: MeshBody5 1
+    100126: MeshBody5 2
+    100128: MeshBody5 3
+    100130: MeshBody5 4
+    100132: MeshBody6
+    100134: MeshBody6 1
+    100136: MeshBody6 2
+    100138: MeshBody6 3
+    100140: MeshBody6 4
+    100142: MeshBody7
+    100144: School_cafeteria_Bench
+    100146: School_cafeteria_Bench:1
+    100148: unimec_robot v3
+    100150: unimec_robot v3:1
+    400000: _Unimec Robot Body
+    400002: _Unimec Robot Body:1
+    400004: _Unimec Robot Fingers
+    400006: _Unimec Robot Fingers 1
+    400008: _Unimec Robot Fingers:1
+    400010: _Unimec Robot Fingers:2
+    400012: _Unimec Robot Hand
+    400014: _Unimec Robot Hand 1
+    400016: _Unimec Robot Hand:1
+    400018: _Unimec Robot Hand:2
+    400020: _Unimec Robot Head
+    400022: _Unimec Robot Head:1
+    400024: _Unimec Robot Leg
+    400026: _Unimec Robot Leg 1
+    400028: _Unimec Robot Leg:1
+    400030: _Unimec Robot Leg:2
+    400032: Body1
+    400034: cafe v1 (1)
+    400036: cafe v1 (1):1
+    400038: //RootNode
+    400040: Group#1
+    400042: Group#1:1
+    400044: Group#2
+    400046: Group#2:1
+    400048: Group#3
+    400050: Group#3:1
+    400052: Group#4
+    400054: Group#4:1
+    400056: Group#5
+    400058: Group#5:1
+    400060: Group#6
+    400062: Group#6:1
+    400064: Group#7
+    400066: Group#7:1
+    400068: MeshBody1
+    400070: MeshBody1 1
+    400072: MeshBody1 2
+    400074: MeshBody1 3
+    400076: MeshBody1 4
+    400078: MeshBody1 5
+    400080: MeshBody1 6
+    400082: MeshBody1 7
+    400084: MeshBody2
+    400086: MeshBody2 1
+    400088: MeshBody2 2
+    400090: MeshBody2 3
+    400092: MeshBody2 4
+    400094: MeshBody2 5
+    400096: MeshBody2 6
+    400098: MeshBody3
+    400100: MeshBody3 1
+    400102: MeshBody3 2
+    400104: MeshBody3 3
+    400106: MeshBody3 4
+    400108: MeshBody3 5
+    400110: MeshBody3 6
+    400112: MeshBody4
+    400114: MeshBody4 1
+    400116: MeshBody4 2
+    400118: MeshBody4 3
+    400120: MeshBody4 4
+    400122: MeshBody5
+    400124: MeshBody5 1
+    400126: MeshBody5 2
+    400128: MeshBody5 3
+    400130: MeshBody5 4
+    400132: MeshBody6
+    400134: MeshBody6 1
+    400136: MeshBody6 2
+    400138: MeshBody6 3
+    400140: MeshBody6 4
+    400142: MeshBody7
+    400144: School_cafeteria_Bench
+    400146: School_cafeteria_Bench:1
+    400148: unimec_robot v3
+    400150: unimec_robot v3:1
+    2100000: No Name
+    2100002: Steel - Satin
+    2100004: Steel - Cast
+    2300000: Body1
+    2300002: MeshBody1
+    2300004: MeshBody1 1
+    2300006: MeshBody1 2
+    2300008: MeshBody1 3
+    2300010: MeshBody1 4
+    2300012: MeshBody1 5
+    2300014: MeshBody1 6
+    2300016: MeshBody1 7
+    2300018: MeshBody2
+    2300020: MeshBody2 1
+    2300022: MeshBody2 2
+    2300024: MeshBody2 3
+    2300026: MeshBody2 4
+    2300028: MeshBody2 5
+    2300030: MeshBody2 6
+    2300032: MeshBody3
+    2300034: MeshBody3 1
+    2300036: MeshBody3 2
+    2300038: MeshBody3 3
+    2300040: MeshBody3 4
+    2300042: MeshBody3 5
+    2300044: MeshBody3 6
+    2300046: MeshBody4
+    2300048: MeshBody4 1
+    2300050: MeshBody4 2
+    2300052: MeshBody4 3
+    2300054: MeshBody4 4
+    2300056: MeshBody5
+    2300058: MeshBody5 1
+    2300060: MeshBody5 2
+    2300062: MeshBody5 3
+    2300064: MeshBody5 4
+    2300066: MeshBody6
+    2300068: MeshBody6 1
+    2300070: MeshBody6 2
+    2300072: MeshBody6 3
+    2300074: MeshBody6 4
+    2300076: MeshBody7
+    3300000: Body1
+    3300002: MeshBody1
+    3300004: MeshBody1 1
+    3300006: MeshBody1 2
+    3300008: MeshBody1 3
+    3300010: MeshBody1 4
+    3300012: MeshBody1 5
+    3300014: MeshBody1 6
+    3300016: MeshBody1 7
+    3300018: MeshBody2
+    3300020: MeshBody2 1
+    3300022: MeshBody2 2
+    3300024: MeshBody2 3
+    3300026: MeshBody2 4
+    3300028: MeshBody2 5
+    3300030: MeshBody2 6
+    3300032: MeshBody3
+    3300034: MeshBody3 1
+    3300036: MeshBody3 2
+    3300038: MeshBody3 3
+    3300040: MeshBody3 4
+    3300042: MeshBody3 5
+    3300044: MeshBody3 6
+    3300046: MeshBody4
+    3300048: MeshBody4 1
+    3300050: MeshBody4 2
+    3300052: MeshBody4 3
+    3300054: MeshBody4 4
+    3300056: MeshBody5
+    3300058: MeshBody5 1
+    3300060: MeshBody5 2
+    3300062: MeshBody5 3
+    3300064: MeshBody5 4
+    3300066: MeshBody6
+    3300068: MeshBody6 1
+    3300070: MeshBody6 2
+    3300072: MeshBody6 3
+    3300074: MeshBody6 4
+    3300076: MeshBody7
+    4300000: MeshBody1
+    4300002: MeshBody2
+    4300004: MeshBody3
+    4300006: MeshBody4
+    4300008: MeshBody5
+    4300010: MeshBody6
+    4300012: MeshBody1
+    4300014: MeshBody1
+    4300016: MeshBody2
+    4300018: MeshBody3
+    4300020: MeshBody1
+    4300022: MeshBody2
+    4300024: MeshBody3
+    4300026: MeshBody1
+    4300028: MeshBody2
+    4300030: MeshBody3
+    4300032: MeshBody4
+    4300034: MeshBody5
+    4300036: MeshBody6
+    4300038: MeshBody1
+    4300040: MeshBody2
+    4300042: MeshBody3
+    4300044: MeshBody4
+    4300046: MeshBody5
+    4300048: MeshBody6
+    4300050: MeshBody1
+    4300052: MeshBody2
+    4300054: MeshBody3
+    4300056: MeshBody4
+    4300058: MeshBody5
+    4300060: MeshBody6
+    4300062: MeshBody1
+    4300064: MeshBody2
+    4300066: MeshBody3
+    4300068: MeshBody4
+    4300070: MeshBody5
+    4300072: MeshBody6
+    4300074: MeshBody7
+    4300076: Body1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
