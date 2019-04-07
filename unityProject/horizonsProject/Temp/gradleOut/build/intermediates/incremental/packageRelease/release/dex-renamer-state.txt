@@ -1,4 +1,0 @@
-#Sat Apr 06 18:24:46 EDT 2019
-base.0=C\:\\Users\\John\\Documents\\hackathon\\unityProject\\horizonsProject\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex

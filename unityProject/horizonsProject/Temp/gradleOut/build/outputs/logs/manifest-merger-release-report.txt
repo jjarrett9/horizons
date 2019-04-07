@@ -1,210 +1,210 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
-MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:17:1-46:12
-MERGED from [:arcore_unity:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_unity.aar\037aff1f698f6e8063d17306e54c31fa\AndroidManifest.xml:2:1-11:12
-MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:2:1-11:12
-MERGED from [:unityandroidpermissions:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unityandroidpermissions.aar\d4c4f64c78adf3ea4236a0e416762d9e\AndroidManifest.xml:6:1-15:12
-MERGED from [:unitygar:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unitygar.aar\4a34e632dff86a21698266096e7e446e\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:17:1-46:12
+MERGED from [:arcore_unity:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_unity.aar\3e9775880d87037d24bc49f0d6a440b5\AndroidManifest.xml:2:1-11:12
+MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:2:1-11:12
+MERGED from [:unityandroidpermissions:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unityandroidpermissions.aar\e7420f6a28b7a3fe0bd0f8051610bb51\AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unitygar.aar\4d6a52024a167820866cfe8f25bdb3a2\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-103
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-103
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:104-150
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:104-150
 	android:versionCode
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:151-191
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:2:151-191
 supports-screens
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
 	android:largeScreens
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
 	android:smallScreens
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
 	android:normalScreens
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
 	android:xlargeScreens
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
 	android:anyDensity
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
 application
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-18:17
-MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:30:5-44:19
-MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:30:5-44:19
-MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:7:5-9:19
-MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:7:5-9:19
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-18:17
+MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:30:5-44:19
+MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:7:5-9:19
+MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:7:5-9:19
 	android:label
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:90-122
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:90-122
 	android:icon
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:58-89
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:58-89
 	android:banner
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:145-182
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:145-182
 	android:theme
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-57
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-57
 	android:isGame
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:123-144
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:4:123-144
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-12:16
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-12:16
 	android:screenOrientation
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-140
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-140
 	android:label
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
 	android:launchMode
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:141-172
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:141-172
 	android:hardwareAccelerated
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:355-390
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:355-390
 	android:configChanges
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:173-354
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:173-354
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-10:23
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-10:23
 action#android.intent.action.MAIN
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
 category#android.intent.category.LEANBACK_LAUNCHER
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-78
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-78
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-75
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-75
 meta-data#unityplayer.UnityActivity
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:11:7-82
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:11:7-82
 	android:value
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:11:59-79
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:11:59-79
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:11:18-58
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:11:18-58
 meta-data#unity.tango-enable
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:13:5-73
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:13:5-73
 	android:value
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:13:50-70
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:13:50-70
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:13:16-49
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:13:16-49
 meta-data#unityplayer.SkipPermissionsDialog
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-88
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-88
 	android:value
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:14:65-85
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:14:65-85
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-64
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-64
 meta-data#unity.build-id
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-101
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-101
 	android:value
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:15:46-98
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:15:46-98
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-45
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-45
 meta-data#unity.splash-mode
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-69
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-69
 	android:value
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:16:49-66
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:16:49-66
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-48
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-48
 meta-data#unity.splash-enable
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-74
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-74
 	android:value
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:17:51-71
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:17:51-71
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-50
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-50
 uses-feature#0x00020000
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-52
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-52
 	android:glEsVersion
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:19:17-49
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:19:17-49
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-63
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-63
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:20:20-60
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:20:20-60
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-65
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-65
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:21:20-62
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:21:20-62
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-88
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-88
 	android:required
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:22:61-85
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:22:61-85
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-60
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-99
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-99
 	android:required
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:23:72-96
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:23:72-96
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-71
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:24:3-108
+ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:24:3-108
 	android:required
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:24:81-105
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:24:81-105
 	android:name
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:24:17-80
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml:24:17-80
 uses-sdk
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:26:5-28:41
-MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:26:5-28:41
-MERGED from [:arcore_unity:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_unity.aar\037aff1f698f6e8063d17306e54c31fa\AndroidManifest.xml:7:5-9:41
-MERGED from [:arcore_unity:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_unity.aar\037aff1f698f6e8063d17306e54c31fa\AndroidManifest.xml:7:5-9:41
-MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:6:5-43
-MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:6:5-43
-MERGED from [:unityandroidpermissions:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unityandroidpermissions.aar\d4c4f64c78adf3ea4236a0e416762d9e\AndroidManifest.xml:11:5-13:41
-MERGED from [:unityandroidpermissions:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unityandroidpermissions.aar\d4c4f64c78adf3ea4236a0e416762d9e\AndroidManifest.xml:11:5-13:41
-MERGED from [:unitygar:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unitygar.aar\4a34e632dff86a21698266096e7e446e\AndroidManifest.xml:7:5-9:41
-MERGED from [:unitygar:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unitygar.aar\4a34e632dff86a21698266096e7e446e\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_unity:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_unity.aar\3e9775880d87037d24bc49f0d6a440b5\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_unity.aar\3e9775880d87037d24bc49f0d6a440b5\AndroidManifest.xml:7:5-9:41
+MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:6:5-43
+MERGED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:6:5-43
+MERGED from [:unityandroidpermissions:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unityandroidpermissions.aar\e7420f6a28b7a3fe0bd0f8051610bb51\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unityandroidpermissions.aar\e7420f6a28b7a3fe0bd0f8051610bb51\AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unitygar.aar\4d6a52024a167820866cfe8f25bdb3a2\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\unitygar.aar\4d6a52024a167820866cfe8f25bdb3a2\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-		ADDED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\John\Documents\hackathon\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\Documents\GitHub\horizons\unityProject\horizonsProject\Temp\gradleOut\src\main\AndroidManifest.xml
 meta-data#com.google.ar.core.min_apk_version
-ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:33:9-35:41
+ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:33:9-35:41
 	android:value
-		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:35:13-38
+		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:35:13-38
 	android:name
-		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:34:13-62
+		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:34:13-62
 activity#com.google.ar.core.InstallActivity
-ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:37:9-43:80
+ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:37:9-43:80
 	android:excludeFromRecents
-		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:40:13-46
+		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:40:13-46
 	android:launchMode
-		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:42:13-43
+		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:42:13-43
 	android:exported
-		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:41:13-37
+		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:41:13-37
 	android:configChanges
-		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:39:13-74
+		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:39:13-74
 	android:theme
-		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:43:13-77
+		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:43:13-77
 	android:name
-		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\5be9bb224ba84720de8e748662743fed\AndroidManifest.xml:38:13-62
+		ADDED from [:arcore_client:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\7f51e52993b731d43cfae21cb9faabfd\AndroidManifest.xml:38:13-62
 meta-data#com.google.ar.core
-ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:8:9-81
+ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:8:9-81
 	android:value
-		ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:8:54-78
+		ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:8:54-78
 	android:name
-		ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:8:20-53
+		ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:8:20-53
 uses-feature#android.hardware.camera.ar
-ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:10:5-86
+ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:10:5-86
 	android:required
-		ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:10:61-84
+		ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:10:61-84
 	android:name
-		ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\f268d7287bd5898b0aca794518aa7156\AndroidManifest.xml:10:19-60
+		ADDED from [:google_ar_required:] C:\Users\John\.gradle\caches\transforms-1\files-1.1\google_ar_required.aar\ffe7ea1864722b8cc773fad3b1b6b9f6\AndroidManifest.xml:10:19-60

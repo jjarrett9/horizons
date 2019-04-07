@@ -93,7 +93,6 @@ namespace GoogleARCore.Examples.AugmentedImage
             button2.onClick.AddListener(TaskOnClick2);
             button3.onClick.AddListener(TaskOnClick3);
 
-            audiosource = GetComponent<AudioSource>();
         }
 
         /// <summary>
@@ -104,44 +103,44 @@ namespace GoogleARCore.Examples.AugmentedImage
 
             if (Image == null || Image.TrackingState != TrackingState.Tracking)
             {
-                model1a.SetActive(false);
+                //model1a.SetActive(false);
 
-                model2a.SetActive(false);
-                model2b.SetActive(false);
-                model2c.SetActive(false);
+                //model2a.SetActive(false);
+                //model2b.SetActive(false);
+                //model2c.SetActive(false);
 
-                model3a.SetActive(false);
-                model3b.SetActive(false);
-                model3c.SetActive(false);
+                //model3a.SetActive(false);
+                //model3b.SetActive(false);
+                //model3c.SetActive(false);
 
-                model4a.SetActive(false);
-                model4b.SetActive(false);
-                model4c.SetActive(false);
+                //model4a.SetActive(false);
+                //model4b.SetActive(false);
+                //model4c.SetActive(false);
 
-                model5a.SetActive(false);
-                model5b.SetActive(false);
-                model5c.SetActive(false);
+                //model5a.SetActive(false);
+                //model5b.SetActive(false);
+                //model5c.SetActive(false);
 
-                model6a.SetActive(false);
-                model6b.SetActive(false);
-                model6c.SetActive(false);
+                //model6a.SetActive(false);
+                //model6b.SetActive(false);
+                //model6c.SetActive(false);
 
-                model7a.SetActive(false);
-                model7b.SetActive(false);
-                model7c.SetActive(false);
+                //model7a.SetActive(false);
+                //model7b.SetActive(false);
+                //model7c.SetActive(false);
 
-                model8a.SetActive(false);
-                model8b.SetActive(false);
-                model8c.SetActive(false);
+                //model8a.SetActive(false);
+                //model8b.SetActive(false);
+                //model8c.SetActive(false);
 
-                image1.SetActive(false);
-                image2.SetActive(false);
-                image3.SetActive(false);
+                //image1.SetActive(false);
+                //image2.SetActive(false);
+                //image3.SetActive(false);
 
                 return;
             }
 
-            if (Image.Name == "001.jpg")
+            if (Image.Name.Equals("Cafe"))
             {
                 model2a.SetActive(false);
                 model2b.SetActive(false);
@@ -173,9 +172,16 @@ namespace GoogleARCore.Examples.AugmentedImage
 
                 // set which model 1 is true based on canvas input
                 // HERE
-                audiosource.PlayOneShot(audio1, 1);
+                //                Instantiate(audio1);
+                GetComponent<AudioSource>().clip = audio1;
+
+                //           model1a.transform.localPosition = Image.ExtentX;
+                //GameObject m1a = Instantiate(model1a);
+                model1a.transform.position = Image.CenterPose.position;
+                model1a.transform.rotation = Image.CenterPose.rotation;
 
                 model1a.SetActive(true);
+                
                 image1.SetActive(true);
                 image2.SetActive(true);
                 image3.SetActive(true);
@@ -185,7 +191,7 @@ namespace GoogleARCore.Examples.AugmentedImage
                 return;
 
             }
-            if (Image.Name == "002.jpg")
+            if (Image.Name == "Keyboard")
             {
 
                 image1.SetActive(false);
@@ -221,7 +227,7 @@ namespace GoogleARCore.Examples.AugmentedImage
                 // set which model 2 is true based on canvas input
                 // HERE
 
-                audiosource.PlayOneShot(audio2, 1);
+                GetComponent<AudioSource>().clip = audio2;
 
 
                 if (lastValSelected == 1)
@@ -241,7 +247,7 @@ namespace GoogleARCore.Examples.AugmentedImage
 
                 return;
             }
-            if (Image.Name == "003.jpg")
+            if (Image.Name == "Winter")
             {
                 model1a.SetActive(false);
 
@@ -271,7 +277,7 @@ namespace GoogleARCore.Examples.AugmentedImage
 
                 // Set which model 3 is true based on canvas input
                 // HERE
-                audiosource.PlayOneShot(audio3, 1);
+                GetComponent<AudioSource>().clip = audio3;
 
 
                 if (lastValSelected == 1)
@@ -293,7 +299,7 @@ namespace GoogleARCore.Examples.AugmentedImage
                 return;
             }
 
-            if (Image.Name == "004.jpg")
+            if (Image.Name == "Dog")
             {
                 model1a.SetActive(false);
 
@@ -323,7 +329,7 @@ namespace GoogleARCore.Examples.AugmentedImage
 
                 // set which model 4 is true based on canvas
                 // HERE
-                audiosource.PlayOneShot(audio4, 1);
+                GetComponent<AudioSource>().clip = audio4;
 
 
                 if (lastValSelected == 1)
@@ -344,7 +350,7 @@ namespace GoogleARCore.Examples.AugmentedImage
 
                 return;
             }
-            if (Image.Name == "004.jpg")
+            if (Image.Name == "Clothing")
             {
                 model1a.SetActive(false);
 
@@ -374,7 +380,7 @@ namespace GoogleARCore.Examples.AugmentedImage
 
                 // set which model 5 is true based on canvas
                 // HERE
-                audiosource.PlayOneShot(audio5, 1);
+                GetComponent<AudioSource>().clip = audio5;
 
 
                 if (lastValSelected == 1)
@@ -493,7 +499,7 @@ namespace GoogleARCore.Examples.AugmentedImage
 
                 return;
             }
-            if (Image.Name == "007")
+            if (Image.Name == "Fire")
             {
                 model1a.SetActive(false);
 
@@ -523,17 +529,20 @@ namespace GoogleARCore.Examples.AugmentedImage
 
                 if (Mathf.Max(counter1, counter2, counter3) == counter1)
                 {
-                    audiosource.PlayOneShot(EndingAnti, 1);
+                    GetComponent<AudioSource>().clip = EndingAnti;
+
                     model8a.SetActive(true);
                 }
                 else if (Mathf.Max(counter1, counter2, counter3) == counter2)
                 {
-                    audiosource.PlayOneShot(EndingPro, 1);
+                    GetComponent<AudioSource>().clip = EndingPro;
+
                     model8b.SetActive(true);
                 }
                 else if (Mathf.Max(counter1, counter2, counter3) == counter3)
                 {
-                    audiosource.PlayOneShot(EndingQuo, 1);
+                    GetComponent<AudioSource>().clip = EndingQuo;
+
                     model8c.SetActive(true);
                 }
                 return;
